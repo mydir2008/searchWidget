@@ -1,0 +1,2 @@
+# searchWidget
+wechat searchWidget
